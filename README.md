@@ -9,6 +9,7 @@ Each skill lives in its own folder under `skills/` as a `SKILL.md` file: YAML fr
 | Skill | What it does |
 | --- | --- |
 | [usage-aware](skills/usage-aware/SKILL.md) | When usage or credits are running low, figures out what can realistically get done, triages the rest, and leaves a checkpoint so nothing is lost or redone. |
+| [idea-to-one-pager](skills/idea-to-one-pager/SKILL.md) | Turns a side project or small-business idea into a one-page plan: problem, customer, offer, competition, and three concrete next actions. |
 
 ## License
 
